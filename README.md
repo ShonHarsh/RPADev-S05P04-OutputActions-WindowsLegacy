@@ -12,7 +12,7 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 **Course:** UiPath - RPA Developer Foundation
 
-**Section:** 05 UI Automation with the Classic Experience
+**Section:** 05 UI Automation With The Classic Experience
 
 **Practice:** 04 Output Actions
 
@@ -65,6 +65,16 @@ Google Chrome is used by the robot.
    P03 [RPADev-S04P03-CalculatingPercentagesOfExpenses](https://github.com/ShonHarsh/RPADev-S04P03-CalculatingPercentagesOfExpenses)
 
 5. UI Automation With Studio
+
+   P01 [RPADev-S05P01-PasswordGenerator](https://github.com/ShonHarsh/RPADev-S05P01-PasswordGenerator)
+
+   P02 [RPADev-S05P02-TheRPAChallenge](https://github.com/ShonHarsh/RPADev-S05P02-TheRPAChallenge)
+
+   P03 [RPADev-S05P03-InputActions](https://github.com/ShonHarsh/RPADev-S05P03-InputActions)
+
+   P04 [RPADev-S05P04-OutputActions](https://github.com/ShonHarsh/RPADev-S05P04-OutputActions)
+
+   P05 [RPADev-S05P05-DataScraping](https://github.com/ShonHarsh/RPADev-S05P05-DataScraping)
 
 6. Selectors In Studio
 
