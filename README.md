@@ -8,6 +8,12 @@ This project is my solution in **C#** to the **Output Actions** practice found i
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
+#### PRACTICE REQUIREMENTS
+
+###### **Finding the weather using Google**
+
+Create a robot which finds the weather of a specific city using Google. The city of interest is introduced by user.
+
 ### Details
 
 **Course:** UiPath - RPA Developer Foundation
